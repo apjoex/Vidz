@@ -33,13 +33,6 @@
             android:gravity="center"
             android:layout_margin="10dp"/>
 
-        <c.apjoex.samplelib.Stepper
-            android:id="@+id/stepper"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:maxNumber="3"
-            app:currentNumber="1"/>
-
     </LinearLayout>
 
 </RelativeLayout>
